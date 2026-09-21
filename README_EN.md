@@ -122,15 +122,6 @@ A dimensional modeling project with physical model, SQL creation/deletion script
 
 > If these stats do not load on your profile, you can remove this section without harming the presentation.
 
----
-
-## 🐍 Contribution animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rayssa-victorya/rayssa-victorya/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
-</div>
-
-> The snake animation only appears after the workflow runs and creates the `output` branch.
 
 ---
 
