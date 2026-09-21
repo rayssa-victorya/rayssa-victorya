@@ -130,8 +130,6 @@ Projeto de modelagem dimensional com modelo físico, scripts SQL de criação/re
   <img src="https://raw.githubusercontent.com/rayssa-victorya/rayssa-victorya/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
 </div>
 
-> A cobrinha só aparece depois que o workflow rodar e criar a branch `output`.
-
 ---
 
 ## 🎯 Objetivo profissional
