@@ -122,12 +122,6 @@ Projeto de modelagem dimensional com modelo físico, scripts SQL de criação/re
 
 > Se essas estatísticas não carregarem no seu perfil, você pode remover esta seção sem prejudicar a apresentação.
 
----
-
-## 🐍 Animação de contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rayssa-victorya/rayssa-victorya/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
 </div>
 
 ---
