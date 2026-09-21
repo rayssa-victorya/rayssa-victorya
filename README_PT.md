@@ -109,18 +109,6 @@ Projeto de modelagem dimensional com modelo físico, scripts SQL de criação/re
 - [VAVA-PARCEIROS](https://github.com/rayssa-victorya/VAVA-PARCEIROS)
 - [Meu perfil no GitHub](https://github.com/rayssa-victorya)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rayssa-victorya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssa-victorya&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
-
-</div>
-
-> Se essas estatísticas não carregarem no seu perfil, você pode remover esta seção sem prejudicar a apresentação.
 
 </div>
 
