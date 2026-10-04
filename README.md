@@ -118,16 +118,6 @@ Dimensional modeling project with physical model, SQL creation/deletion scripts 
 
 </div>
 
----
-
-## 🐍 Contribution flow
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rayssa-victorya/rayssa-victorya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</div>
-
----
-
 ## 🎯 What I am looking for
 
 I am building my path toward opportunities where I can work with:
